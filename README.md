@@ -41,7 +41,7 @@ Although we are not using the dataset for its intended purpose, the dataset does
 
 <strong>EDA:</strong>
 
-* Chi-square test of independence (chi2_contingency from scipy)
+* Chi-square test of independence (chi2_contingency from scipy), Cramer's V and Tsuchuprow's T.
 
 <strong>Data preprocessing:</strong>
 
@@ -78,12 +78,17 @@ Both models suggest that BMI is an important factor and SleepTime is a relativel
 
 However, LogisticRegression placed importance on the variables more evenly, with SleepTime being an aforementioned exception, whereas the RandomForestClassifier placed greater relative feature importance on BMI as compared to the rest of the variables.
 
-* <strong>BMI, age and general health are important health metrics in predicting the risk of diabetes.</strong>
-* <strong>Sleep time is a relative unimportant health metric in predicting the risk of diabetes.</strong>
+* <strong>BMI, Age and General Health are important health metrics in predicting the risk of diabetes.</strong>
+* <strong>Sleep Time is a relative unimportant health metric in predicting the risk of diabetes.</strong>
 
 ## Learning Points
 
-
+* Handling imbalanced datasets using resampling methods and class weights.
+* Parametric and nonparametric machine-learning algorithms - Logistic regression and RandomForestClassifier respectively - from sklearn.
+* Recursive feature elimination and sklearn package.
+* Collaborating using Google Colab.
+* Concepts of PolynomialTransform and StandardScaler.
+* Concepts of Chi-square Test of Independence, Cramer's V, and Tsuchuprow's T.
 
 ## References
 
