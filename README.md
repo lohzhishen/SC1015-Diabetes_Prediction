@@ -19,8 +19,8 @@ Jupyter Notebook:
 
 Google Colaboratory:
 
-* Upload "SC1015_Intro_to_DSAI.ipynb" to google colab.
-* Upload "heart_2020_cleaned.csv" to runtime environment. (Ensure that the whole file is uploaded before running the notebook or there will be errors)
+* Upload "SC1015_Intro_to_DSAI.ipynb" to Google Colab.
+* Upload "heart_2020_cleaned.csv" to runtime environment (Ensure that the whole file is uploaded before running the notebook or there will be errors.)
 
 ## Problem Statement
 
