@@ -6,7 +6,7 @@ This repository contains our mini-project for SC1015 (Introduction to Data Scien
 
 <strong>Contributors</strong>
 * @lohzhishen
-* @
+* @GuoYong
 * @
 
 <strong>Usage</strong>
