@@ -4,12 +4,17 @@
 
 This repository contains our mini-project for SC1015 (Introduction to Data Science & Artifical Intelligence). Our project is about identifying important health metrics in predicting the risk of diabetes.
 
-<em>Presentation: </em>
+<em>Presentation</em>
 
 <strong>Contributors</strong>
 * @lohzhishen
-* @GuoYong
+* @YoNG-Zaii
 * @TANERNHONG
+
+Presentation video is uploaded on Youtube (http://www.youtube.com/watch?v=zLFol9dCYMM)
+[![Diabetes Prediction Youtube Video](https://lh3.googleusercontent.com/d/1d8IyGAWHSf0huHjVVWj1TQxGKoJbTNur)](http://www.youtube.com/watch?v=zLFol9dCYMM "Diabetes Prediction Video Presentation")
+
+* Click on the picture above to be directed to the Youtube video.
 
 <strong>Usage</strong>
 
