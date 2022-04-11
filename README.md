@@ -11,10 +11,11 @@ This repository contains our mini-project for SC1015 (Introduction to Data Scien
 * @YoNG-Zaii
 * @TANERNHONG
 
-Presentation video is uploaded on Youtube (http://www.youtube.com/watch?v=zLFol9dCYMM)
-[![Diabetes Prediction Youtube Video](https://lh3.googleusercontent.com/d/1d8IyGAWHSf0huHjVVWj1TQxGKoJbTNur)](http://www.youtube.com/watch?v=zLFol9dCYMM "Diabetes Prediction Video Presentation")
+Presentation video is uploaded on Youtube.
 
-* Click on the picture above to be directed to the Youtube video.
+* Click on the picture below to be directed to the Youtube video. Alternatively, here is the Youtube video link: http://www.youtube.com/watch?v=zLFol9dCYMM
+
+[![Diabetes Prediction Youtube Video](https://lh3.googleusercontent.com/d/1d8IyGAWHSf0huHjVVWj1TQxGKoJbTNur)](http://www.youtube.com/watch?v=zLFol9dCYMM "Diabetes Prediction Video Presentation")
 
 <strong>Usage</strong>
 
